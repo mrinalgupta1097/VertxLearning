@@ -1,4 +1,4 @@
-package com.mrinalgupta.vertx.vertx_starter.eventbus;
+package com.mrinalgupta.vertx.vertx_starter.eventbus.requestresponse;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Promise;

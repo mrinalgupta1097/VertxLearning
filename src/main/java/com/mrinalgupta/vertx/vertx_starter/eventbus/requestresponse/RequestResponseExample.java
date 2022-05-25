@@ -1,4 +1,5 @@
-package com.mrinalgupta.vertx.vertx_starter.eventbus;
+package com.mrinalgupta.vertx.vertx_starter.eventbus.requestresponse;
+
 
 import io.vertx.core.Vertx;
 

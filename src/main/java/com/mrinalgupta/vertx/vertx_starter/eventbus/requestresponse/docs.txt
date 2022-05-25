@@ -1,0 +1,7 @@
+Types of Event Bus Communication :
+
+1.point-to-point - send the message, one consumer receives it. If several consumers listen to the address, a round robin is applied;
+
+2.publish/subscribe - publish a message, all the consumers listening to the address are receiving the message;
+
+3.request/reply - send the message and expect a response. The receiver can respond to the message in an asynchronous-fashion
